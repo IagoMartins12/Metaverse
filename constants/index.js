@@ -76,13 +76,16 @@ export const socials = [
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    href: 'https://www.linkedin.com/in/iago-martins-313838213/'
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    href: 'https://www.instagram.com/iago_martins1/'
   },
   {
     name: 'facebook',
     url: '/facebook.svg',
+    href: 'https://www.facebook.com/profile.php?id=100002150451949'
   },
 ];

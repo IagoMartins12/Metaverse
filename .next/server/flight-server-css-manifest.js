@@ -1,1 +1,0 @@
-self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/iago/Documentos/Projetos/Metaverse/app/page":["/home/iago/Documentos/Projetos/Metaverse/styles/globals.css"]},"/home/iago/Documentos/Projetos/Metaverse/app/layout.js":["/home/iago/Documentos/Projetos/Metaverse/styles/globals.css"]}
